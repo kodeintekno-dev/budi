@@ -37,6 +37,7 @@ h1, p {
     font-size: 18px;
     font-weight: bold;
     transition: 0.3s;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
 }
 
 .sosmed-icon {
@@ -62,6 +63,7 @@ h1, p {
 .sosmed:hover {
     background-color: #01DF94;
     color: white;
+    box-shadow: 0 6px 15px rgba(0, 0, 0, 0.2);
 }
 
 .sosmed-links {
